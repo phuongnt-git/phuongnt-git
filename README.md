@@ -46,10 +46,11 @@
 
 ## 📚 Certificates
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-005C84) Machine Learning](https://coursera.org/verify/specialization/HQQ4YMDT62B2)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-005C84) IBM Data Science](https://coursera.org/verify/professional-cert/JH787AX87SFP)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-005C84) Core Java](https://coursera.org/verify/specialization/L8JHKUVY37L7)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-005C84) Java Enterprise Edition](https://coursera.org/verify/specialization/QRED5U7DWFT6)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) LearnQuest Core Java Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/L8JHKUVY37L7)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) LearnQuest Java Enterprise Edition Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QRED5U7DWFT6)
+
+- [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-lightgrey) Learning Path: Getting Started as a Java Developer](https://www.linkedin.com/learning/certificates/f9f31e849b30b6807e980fcde0fbb54e0772c64e36a93b524e430af35c856bcd)
+- [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-lightgrey) Learning Path: Advance Your Java Skills](https://www.linkedin.com/learning/certificates/cda038dfa00749cac962805fd99205b0f14ea61d04009b2be163e1978e6135e1)
 
 <br/><br/>
 

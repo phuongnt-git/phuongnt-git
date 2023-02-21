@@ -37,9 +37,9 @@
 - [![IBM Skills Network](https://img.shields.io/badge/-IBM%20Skills%20Network-lightgrey) IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JH787AX87SFP)
 - [![LearnQuest](https://img.shields.io/badge/-LearnQuest-yellow) Core Java Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/L8JHKUVY37L7)
 - [![LearnQuest](https://img.shields.io/badge/-LearnQuest-yellow) Java Enterprise Edition Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QRED5U7DWFT6)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Learning Path: Getting Started as a Java Developer](https://www.linkedin.com/learning/certificates/f9f31e849b30b6807e980fcde0fbb54e0772c64e36a93b524e430af35c856bcd)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Learning Path: Advance Your Java Skills](https://www.linkedin.com/learning/certificates/cda038dfa00749cac962805fd99205b0f14ea61d04009b2be163e1978e6135e1)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Learning Path: Building Your Skills in Spring Development](https://www.linkedin.com/learning/certificates/577bae1822ca2e986e9390027aed442ace48223d65b15b3af57ae78b33c7201f)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Getting Started as a Java Developer](https://www.linkedin.com/learning/certificates/f9f31e849b30b6807e980fcde0fbb54e0772c64e36a93b524e430af35c856bcd)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Advance Your Java Skills](https://www.linkedin.com/learning/certificates/cda038dfa00749cac962805fd99205b0f14ea61d04009b2be163e1978e6135e1)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Building Your Skills in Spring Development](https://www.linkedin.com/learning/certificates/577bae1822ca2e986e9390027aed442ace48223d65b15b3af57ae78b33c7201f)
 
 ## 📬 Get in touch with me
 <div align="center">

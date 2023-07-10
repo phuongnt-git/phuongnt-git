@@ -31,10 +31,6 @@
 </table>
 
 ## 📚 Certificates
-- [![Stanford University, DeepLearning.AI](https://img.shields.io/badge/-Stanford%20University,%20DeepLearning.AI-red) Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HQQ4YMDT62B2)
-- [![DeepLearning.AI](https://img.shields.io/badge/-DeepLearning.AI-critical) Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/E5KG2VGDBYFY)
-- [![IBM Skills Network](https://img.shields.io/badge/-IBM%20Skills%20Network-lightgrey) IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AFBUYK5B8HPB)
-- [![IBM Skills Network](https://img.shields.io/badge/-IBM%20Skills%20Network-lightgrey) IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JH787AX87SFP)
 - [![LearnQuest](https://img.shields.io/badge/-LearnQuest-yellow) Core Java Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/L8JHKUVY37L7)
 - [![LearnQuest](https://img.shields.io/badge/-LearnQuest-yellow) Java Enterprise Edition Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/QRED5U7DWFT6)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Getting Started as a Java Developer](https://www.linkedin.com/learning/certificates/f9f31e849b30b6807e980fcde0fbb54e0772c64e36a93b524e430af35c856bcd)

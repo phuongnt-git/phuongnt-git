@@ -31,9 +31,9 @@
 </table>
 
 ## 📚 Certificates
-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-informational) Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/cd82c11e82f4)
-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-informational) SQL (Advanced)](https://www.hackerrank.com/certificates/a5611390cf84)
-- [![MongoDB](https://img.shields.io/badge/-MongoDB-informational) MongoDB Java Developer Path](https://learn.mongodb.com/c/c5oR4BbRRKegbbULH0TpTw)
+- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-A1CCD1) Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/cd82c11e82f4)
+- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-A1CCD1) SQL (Advanced)](https://www.hackerrank.com/certificates/a5611390cf84)
+- [![MongoDB](https://img.shields.io/badge/-MongoDB-7A9D54) MongoDB Java Developer Path](https://learn.mongodb.com/c/c5oR4BbRRKegbbULH0TpTw)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Getting Started as a Java Developer](https://www.linkedin.com/learning/certificates/f9f31e849b30b6807e980fcde0fbb54e0772c64e36a93b524e430af35c856bcd)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Advance Your Java Skills](https://www.linkedin.com/learning/certificates/cda038dfa00749cac962805fd99205b0f14ea61d04009b2be163e1978e6135e1)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational) Building Your Skills in Spring Development](https://www.linkedin.com/learning/certificates/577bae1822ca2e986e9390027aed442ace48223d65b15b3af57ae78b33c7201f)
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/phuongnt-in" >
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoWidth=20" height="25" alt=""/></a>
   <a href="https://www.hackerrank.com/phuongnt" >
-    <img src="https://img.shields.io/badge/-Hackerrank-1877f2?style=flat&logo=hackerrank&logoWidth=20&&logoColor=fff" height="25" alt=""/></a>
+    <img src="https://img.shields.io/badge/-Hackerrank-A1CCD1?style=flat&logo=hackerrank&logoWidth=20&&logoColor=fff" height="25" alt=""/></a>
 </div>
 
 ## :hearts: Thanks for visiting my profile

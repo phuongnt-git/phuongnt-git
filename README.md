@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Angular+%7C+TypeScript;Kafka+%7C+RabbitMQ+%7C+Camunda;AWS+%7C+Docker+%7C+Kubernetes;Building+scalable+banking+%26+trading+systems)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/phuongnt-in"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/phuongnt-in"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/linkedin.svg" width="18" height="18" alt="LinkedIn icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="https://resume-eight-tawny-41.vercel.app/"><img src="https://img.shields.io/badge/-Resume-764ba2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
-<a href="mailto:phuongnt.work@outlook.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+<a href="mailto:phuongnt.work@outlook.com"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/outlook.svg" width="18" height="18" alt="Outlook icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge" alt="Email"/></a>
 <a href="https://leetcode.com/u/phuong-leetcode/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=333" alt="LeetCode"/></a>
 <img src="https://komarev.com/ghpvc/?username=phuongnt-git&style=for-the-badge&color=764ba2" alt="Profile views"/>
 
@@ -34,13 +34,13 @@ Software engineer with nearly **6 years of experience** building and supporting 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack
 
 <table>
-  <tr><td align="center" width="150"><b>Programming Languages</b></td><td>
+  <tr><td align="center" width="170"><b>Programming Languages</b></td><td>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/css3.svg" width="18" height="18" alt="CSS3 icon" align="absmiddle"/> <b>CSS3</b>
   </td></tr>
   <tr><td align="center"><b>Frameworks &amp; Messaging</b></td><td>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -49,36 +49,44 @@ Software engineer with nearly **6 years of experience** building and supporting 
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
     <img src="https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white" alt="Camunda"/>
-    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openai.svg" width="18" height="18" alt="OpenAI API icon" align="absmiddle"/> <b>OpenAI API</b>
   </td></tr>
   <tr><td align="center"><b>Databases</b></td><td>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mssql.svg" width="18" height="18" alt="Microsoft SQL Server icon" align="absmiddle"/> <b>Microsoft SQL Server</b>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/oracle.svg" width="18" height="18" alt="Oracle icon" align="absmiddle"/> <b>Oracle</b>
   </td></tr>
   <tr><td align="center"><b>Cloud &amp; Infrastructure</b></td><td>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/AWS_Textract-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Textract"/>
-    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-    <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=222" alt="Amazon EC2"/>
-    <img src="https://img.shields.io/badge/Amazon_Q-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Q"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/aws.svg" width="18" height="18" alt="AWS (Textract · S3 · EC2 · Amazon Q) icon" align="absmiddle"/> <b>AWS (Textract · S3 · EC2 · Amazon Q)</b>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/azure.svg" width="18" height="18" alt="Azure icon" align="absmiddle"/> <b>Azure</b>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
     <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" alt="Rancher"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
     <img src="https://img.shields.io/badge/HashiCorp-000000?style=flat-square&logo=hashicorp&logoColor=white" alt="HashiCorp"/>
+  </td></tr>
+  <tr><td align="center"><b>Delivery &amp; Operations</b></td><td>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/harness.svg" width="18" height="18" alt="Harness icon" align="absmiddle"/> <b>Harness</b>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/controlm.svg" width="18" height="18" alt="Control-M icon" align="absmiddle"/> <b>Control-M</b>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/venafi.svg" width="18" height="18" alt="Venafi icon" align="absmiddle"/> <b>Venafi</b>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/servicenow.svg" width="18" height="18" alt="ServiceNow icon" align="absmiddle"/> <b>ServiceNow</b>
   </td></tr>
   <tr><td align="center"><b>Development Tools</b></td><td>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/sonarqube.svg" width="18" height="18" alt="SonarQube icon" align="absmiddle"/> <b>SonarQube</b>
     <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/Bruno-FF6C37?style=flat-square&logo=bruno&logoColor=white" alt="Bruno"/>
     <img src="https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+    <img src="https://img.shields.io/badge/Kong_API_Gateway-003459?style=flat-square&logo=kong&logoColor=white" alt="Kong API Gateway"/>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mirrord.svg" width="18" height="18" alt="mirrord icon" align="absmiddle"/> <b>mirrord</b>
+    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/devin.svg" width="18" height="18" alt="Devin AI icon" align="absmiddle"/> <b>Devin AI</b>
   </td></tr>
   <tr><td align="center"><b>Spoken Languages</b></td><td>Vietnamese (Native) · English (Professional Working)</td></tr>
 </table>

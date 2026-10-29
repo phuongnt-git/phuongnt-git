@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://github.com/phuongnt-git"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Nguyen%20Thanh%20Phuong&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20%26%20DevOps%20Engineer%20%7C%20Nearly%206%20Years%20in%20Banking%20%26%20Financial%20Services&descSize=18&descAlignY=52&descAlign=50" width="100%" alt="Header"/></a>
+  <a href="https://github.com/phuongnt-git"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/profile-header.svg" width="100%" alt="Nguyen Thanh Phuong — Full Stack and DevOps Engineer"/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Angular+%7C+TypeScript;Kafka+%7C+RabbitMQ+%7C+Camunda;AWS+%7C+Docker+%7C+Kubernetes;Building+scalable+banking+%26+trading+systems)](https://git.io/typing-svg)
 
@@ -34,80 +34,54 @@ Software engineer with nearly **6 years of experience** building and supporting 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack
 
 <table>
-  <tr>
-    <td align="center" width="140"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=333" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
-      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=333" alt="React"/>
-      <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-      <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"/>
-      <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Messaging &<br/>Workflow</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-      <img src="https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white" alt="Camunda"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud &<br/>DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-      <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" alt="Rancher"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=333" alt="Swagger"/>
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white" alt="Maven"/>
-      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle"/>
-    </td>
-  </tr>
+  <tr><td align="center" width="150"><b>Programming Languages</b></td><td>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  </td></tr>
+  <tr><td align="center"><b>Frameworks &amp; Messaging</b></td><td>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222" alt="React"/>
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+    <img src="https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white" alt="Camunda"/>
+    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+  </td></tr>
+  <tr><td align="center"><b>Databases</b></td><td>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  </td></tr>
+  <tr><td align="center"><b>Cloud &amp; Infrastructure</b></td><td>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/AWS_Textract-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Textract"/>
+    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+    <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=222" alt="Amazon EC2"/>
+    <img src="https://img.shields.io/badge/Amazon_Q-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Q"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" alt="Rancher"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/HashiCorp-000000?style=flat-square&logo=hashicorp&logoColor=white" alt="HashiCorp"/>
+  </td></tr>
+  <tr><td align="center"><b>Development Tools</b></td><td>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+    <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Bruno-FF6C37?style=flat-square&logo=bruno&logoColor=white" alt="Bruno"/>
+    <img src="https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  </td></tr>
+  <tr><td align="center"><b>Spoken Languages</b></td><td>Vietnamese (Native) · English (Professional Working)</td></tr>
 </table>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="28" /> Work Experience
 
@@ -160,13 +134,10 @@ Software engineer with nearly **6 years of experience** building and supporting 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Awards
 
-| Award                                         | Organization                     | Year |
-|-----------------------------------------------|----------------------------------|------|
-| **Odon Vallet Scholarship**                   | Rencontres Du Vietnam            | 2023 |
-| **3rd Prize** - National Mathematics Olympiad | Ministry of Education & Training | 2017 |
-| **2nd Prize** - National Mathematics Olympiad | Ministry of Education & Training | 2016 |
-
----
+| Award | Organization | Recognition | Date |
+|:--|:--|:--|:--:|
+| **Odon Vallet Scholarship** | Rencontres du Vietnam | Awarded for outstanding academic achievement | Aug 2023 |
+| **National Mathematics Olympiad** | Ministry of Education &amp; Training | Silver Medal (2016); Bronze Medal (2017) | 2016–2017 |
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> Certifications
 
@@ -180,8 +151,6 @@ Software engineer with nearly **6 years of experience** building and supporting 
 | [Graph Developer - Professional](https://www.apollographql.com/tutorials/certifications/662e12da-08e0-473b-b566-2b673b8c4419) | Apollo GraphQL | Nov 2024 |
 | [EF SET English Certificate](https://cert.efset.org/uKfMUT) | EF SET | Oct 2024 |
 | [Software Engineer](https://www.hackerrank.com/certificates/dcefaef98243) | HackerRank | May 2024 |
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
 
@@ -197,20 +166,12 @@ Software engineer with nearly **6 years of experience** building and supporting 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phuongnt-git&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=fff" alt="Contribution Graph" width="95%"/>
+  <img src="https://ghchart.rshah.org/764ba2/phuongnt-git" alt="GitHub contribution graph" width="95%"/>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=phuongnt-git&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" width="100%"/>
-</div>
-
 ---
-
-<div align="center">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25" /> Contribution Snake
 
@@ -228,4 +189,4 @@ Software engineer with nearly **6 years of experience** building and supporting 
   <i>"Might as well, have the best."</i>
 </div>
 
-<a href="https://github.com/phuongnt-git"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" alt="Footer"/></a>
+<a href="https://github.com/phuongnt-git"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/profile-footer.svg" width="100%" alt="Profile footer"/></a>

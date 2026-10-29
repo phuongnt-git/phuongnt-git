@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Nguyen Thanh Phuong</title><desc id="desc">Full Stack and DevOps Engineer in banking and financial services</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#536dfe"/><stop offset="1" stop-color="#764ba2"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity=".12"/></linearGradient></defs>
+<rect width="1200" height="250" rx="24" fill="url(#bg)"/><circle cx="1040" cy="45" r="180" fill="#fff" opacity=".06"/><circle cx="1110" cy="210" r="135" fill="#161b33" opacity=".12"/><path d="M0 207 C250 165 370 260 625 204 S1000 154 1200 190" fill="none" stroke="url(#line)" stroke-width="2"/><path d="M0 224 C230 186 420 268 650 220 S1020 174 1200 206" fill="none" stroke="#fff" stroke-opacity=".18"/>
+<text x="72" y="104" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing=".4">NGUYEN THANH PHUONG</text>
+<text x="74" y="146" fill="#f1eeff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">FULL STACK ENGINEER  ·  DEVOPS ENGINEER</text>
+<text x="74" y="181" fill="#eee9ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1.2">BANKING  /  FINANCIAL SERVICES  /  RELIABLE DELIVERY</text>
+<rect x="74" y="201" width="58" height="4" rx="2" fill="#fff" opacity=".8"/></svg>

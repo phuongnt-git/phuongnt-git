@@ -173,18 +173,6 @@ Software engineer with nearly **6 years of experience** building and supporting 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25" /> Contribution Snake
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/output/github-snake.svg" />
-  </picture>
-
-</div>
-
----
-
 <div align="center">
   <i>"Might as well, have the best."</i>
 </div>

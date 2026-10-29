@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Angular+%7C+TypeScript;Kafka+%7C+RabbitMQ+%7C+Camunda;AWS+%7C+Docker+%7C+Kubernetes;Building+scalable+banking+%26+trading+systems)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/phuongnt-in"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/linkedin.svg" width="18" height="18" alt="LinkedIn icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/phuongnt-in"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/linkedin.svg" width="18" width="14" height="14" alt="LinkedIn icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="https://resume-eight-tawny-41.vercel.app/"><img src="https://img.shields.io/badge/-Resume-764ba2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
-<a href="mailto:phuongnt.work@outlook.com"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/outlook.svg" width="18" height="18" alt="Outlook icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge" alt="Email"/></a>
+<a href="mailto:phuongnt.work@outlook.com"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/outlook.svg" width="18" width="14" height="14" alt="Outlook icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge" alt="Email"/></a>
 <a href="https://leetcode.com/u/phuong-leetcode/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=333" alt="LeetCode"/></a>
 <img src="https://komarev.com/ghpvc/?username=phuongnt-git&style=for-the-badge&color=764ba2" alt="Profile views"/>
 
@@ -36,73 +36,99 @@ Software engineer with nearly **6 years of experience** building and supporting 
 <h3>Programming Languages</h3>
 
 <p align="center">
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openjdk.svg" height="18" alt="Java"/> <b>Java</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/typescript.svg" height="18" alt="TypeScript"/> <b>TypeScript</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/python.svg" height="18" alt="Python"/> <b>Python</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/nodedotjs.svg" height="18" alt="Node.js"/> <b>Node.js</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/html5.svg" height="18" alt="HTML5"/> <b>HTML5</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/css3.svg" height="18" alt="CSS3"/> <b>CSS3</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openjdk.svg" width="14" height="14" alt="Java"/> <b>Java</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/typescript.svg" width="14" height="14" alt="TypeScript"/> <b>TypeScript</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/python.svg" width="14" height="14" alt="Python"/> <b>Python</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/nodedotjs.svg" width="14" height="14" alt="Node.js"/> <b>Node.js</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/html5.svg" width="14" height="14" alt="HTML5"/> <b>HTML5</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/css3.svg" width="14" height="14" alt="CSS3"/> <b>CSS3</b>&nbsp;</code>
 </p>
 
 <h3>Frameworks &amp; Messaging</h3>
 
 <p align="center">
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/springboot.svg" height="18" alt="Spring Boot"/> <b>Spring Boot</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/hibernate.svg" height="18" alt="Hibernate"/> <b>Hibernate</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/react.svg" height="18" alt="React"/> <b>React</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/apachekafka.svg" height="18" alt="Apache Kafka"/> <b>Apache Kafka</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/rabbitmq.svg" height="18" alt="RabbitMQ"/> <b>RabbitMQ</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/camunda.svg" height="18" alt="Camunda"/> <b>Camunda</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openai.svg" height="18" alt="OpenAI API"/> <b>OpenAI API</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/springboot.svg" width="14" height="14" alt="Spring Boot"/> <b>Spring Boot</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/hibernate.svg" width="14" height="14" alt="Hibernate"/> <b>Hibernate</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/react.svg" width="14" height="14" alt="React"/> <b>React</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/apachekafka.svg" width="14" height="14" alt="Apache Kafka"/> <b>Apache Kafka</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/rabbitmq.svg" width="14" height="14" alt="RabbitMQ"/> <b>RabbitMQ</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/camunda.svg" width="14" height="14" alt="Camunda"/> <b>Camunda</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openai.svg" width="14" height="14" alt="OpenAI API"/> <b>OpenAI API</b>&nbsp;</code>
+</p>
+
+<h3>Observability &amp; Performance</h3>
+
+<p align="center">
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/splunk.svg" width="14" height="14" alt="Splunk"/> <b>Splunk</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/opensearch.svg" width="14" height="14" alt="OpenSearch"/> <b>OpenSearch</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/appdynamics.svg" width="14" height="14" alt="AppDynamics"/> <b>AppDynamics</b>&nbsp;</code>
 </p>
 
 <h3>Databases</h3>
 
 <p align="center">
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/postgresql.svg" height="18" alt="PostgreSQL"/> <b>PostgreSQL</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mysql.svg" height="18" alt="MySQL"/> <b>MySQL</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mongodb.svg" height="18" alt="MongoDB"/> <b>MongoDB</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/redis.svg" height="18" alt="Redis"/> <b>Redis</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mssql.svg" height="18" alt="Microsoft SQL Server"/> <b>Microsoft SQL Server</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/oracle.svg" height="18" alt="Oracle"/> <b>Oracle</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/postgresql.svg" width="14" height="14" alt="PostgreSQL"/> <b>PostgreSQL</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mysql.svg" width="14" height="14" alt="MySQL"/> <b>MySQL</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mongodb.svg" width="14" height="14" alt="MongoDB"/> <b>MongoDB</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/redis.svg" width="14" height="14" alt="Redis"/> <b>Redis</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mssql.svg" width="14" height="14" alt="Microsoft SQL Server"/> <b>Microsoft SQL Server</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/oracle.svg" width="14" height="14" alt="Oracle"/> <b>Oracle</b>&nbsp;</code>
 </p>
 
 <h3>Cloud &amp; Infrastructure</h3>
 
 <p align="center">
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/aws.svg" height="18" alt="AWS"/> <b>AWS</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/azure.svg" height="18" alt="Azure"/> <b>Azure</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/docker.svg" height="18" alt="Docker"/> <b>Docker</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/rancher.svg" height="18" alt="Rancher"/> <b>Rancher</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/kubernetes.svg" height="18" alt="Kubernetes"/> <b>Kubernetes</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/terraform.svg" height="18" alt="Terraform"/> <b>Terraform</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/hashicorp.svg" height="18" alt="HashiCorp"/> <b>HashiCorp</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/aws.svg" width="14" height="14" alt="AWS"/> <b>AWS</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/azure.svg" width="14" height="14" alt="Azure"/> <b>Azure</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/docker.svg" width="14" height="14" alt="Docker"/> <b>Docker</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/rancher.svg" width="14" height="14" alt="Rancher"/> <b>Rancher</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/kubernetes.svg" width="14" height="14" alt="Kubernetes"/> <b>Kubernetes</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/terraform.svg" width="14" height="14" alt="Terraform"/> <b>Terraform</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/hashicorp.svg" width="14" height="14" alt="HashiCorp"/> <b>HashiCorp</b>&nbsp;</code>
 </p>
 
 <h3>Delivery &amp; Operations</h3>
 
 <p align="center">
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/jenkins.svg" height="18" alt="Jenkins"/> <b>Jenkins</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/harness.svg" height="18" alt="Harness"/> <b>Harness</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/controlm.svg" height="18" alt="Control-M"/> <b>Control-M</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/venafi.svg" height="18" alt="Venafi"/> <b>Venafi</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/servicenow.svg" height="18" alt="ServiceNow"/> <b>ServiceNow</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/jenkins.svg" width="14" height="14" alt="Jenkins"/> <b>Jenkins</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/harness.svg" width="14" height="14" alt="Harness"/> <b>Harness</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/controlm.svg" width="14" height="14" alt="Control-M"/> <b>Control-M</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/venafi.svg" width="14" height="14" alt="Venafi"/> <b>Venafi</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/servicenow.svg" width="14" height="14" alt="ServiceNow"/> <b>ServiceNow</b>&nbsp;</code>
+</p>
+
+<h3>Testing &amp; Quality Engineering</h3>
+
+<p align="center">
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/gatling.svg" width="14" height="14" alt="Gatling"/> <b>Gatling</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/playwright.svg" width="14" height="14" alt="Playwright"/> <b>Playwright</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/allure.svg" width="14" height="14" alt="Allure"/> <b>Allure</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/testng.svg" width="14" height="14" alt="TestNG"/> <b>TestNG</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/jest.svg" width="14" height="14" alt="Jest"/> <b>Jest</b>&nbsp;</code>
 </p>
 
 <h3>Development Tools &amp; Platforms</h3>
 
 <p align="center">
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/git.svg" height="18" alt="Git"/> <b>Git</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/github.svg" height="18" alt="GitHub"/> <b>GitHub</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/gitlab.svg" height="18" alt="GitLab"/> <b>GitLab</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/sonarqube.svg" height="18" alt="SonarQube"/> <b>SonarQube</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/snyk.svg" height="18" alt="Snyk"/> <b>Snyk</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/postman.svg" height="18" alt="Postman"/> <b>Postman</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/bruno.svg" height="18" alt="Bruno"/> <b>Bruno</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/cursor.svg" height="18" alt="Cursor"/> <b>Cursor</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/kong.svg" height="18" alt="Kong API Gateway"/> <b>Kong API Gateway</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mirrord.svg" height="18" alt="mirrord"/> <b>mirrord</b>&nbsp;</code>
-  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/devin.svg" height="18" alt="Devin AI"/> <b>Devin AI</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/git.svg" width="14" height="14" alt="Git"/> <b>Git</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/github.svg" width="14" height="14" alt="GitHub"/> <b>GitHub</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/gitlab.svg" width="14" height="14" alt="GitLab"/> <b>GitLab</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/sonarqube.svg" width="14" height="14" alt="SonarQube"/> <b>SonarQube</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/snyk.svg" width="14" height="14" alt="Snyk"/> <b>Snyk</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/postman.svg" width="14" height="14" alt="Postman"/> <b>Postman</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/bruno.svg" width="14" height="14" alt="Bruno"/> <b>Bruno</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/cursor.svg" width="14" height="14" alt="Cursor"/> <b>Cursor</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/kong.svg" width="14" height="14" alt="Kong API Gateway"/> <b>Kong API Gateway</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mirrord.svg" width="14" height="14" alt="mirrord"/> <b>mirrord</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/devin.svg" width="14" height="14" alt="Devin AI"/> <b>Devin AI</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/amazonqdeveloper.svg" width="14" height="14" alt="Amazon Q Developer"/> <b>Amazon Q Developer</b>&nbsp;</code>
+</p>
+
+<h3>Planning &amp; Test Management</h3>
+
+<p align="center">
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/rally.svg" width="14" height="14" alt="Rally"/> <b>Rally</b>&nbsp;</code>
+  <code>&nbsp;<img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/qtest.svg" width="14" height="14" alt="qTest"/> <b>qTest</b>&nbsp;</code>
 </p>
 
 <p><small>AWS services: Textract, S3, EC2, Amazon Q.</small></p>

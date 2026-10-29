@@ -34,62 +34,95 @@ Software engineer with nearly **6 years of experience** building and supporting 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack
 
 <table>
-  <tr><td align="center" width="170"><b>Programming Languages</b></td><td>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/css3.svg" width="18" height="18" alt="CSS3 icon" align="absmiddle"/> <b>CSS3</b>
-  </td></tr>
-  <tr><td align="center"><b>Frameworks &amp; Messaging</b></td><td>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222" alt="React"/>
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-    <img src="https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white" alt="Camunda"/>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openai.svg" width="18" height="18" alt="OpenAI API icon" align="absmiddle"/> <b>OpenAI API</b>
-  </td></tr>
-  <tr><td align="center"><b>Databases</b></td><td>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mssql.svg" width="18" height="18" alt="Microsoft SQL Server icon" align="absmiddle"/> <b>Microsoft SQL Server</b>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/oracle.svg" width="18" height="18" alt="Oracle icon" align="absmiddle"/> <b>Oracle</b>
-  </td></tr>
-  <tr><td align="center"><b>Cloud &amp; Infrastructure</b></td><td>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/aws.svg" width="18" height="18" alt="AWS (Textract · S3 · EC2 · Amazon Q) icon" align="absmiddle"/> <b>AWS (Textract · S3 · EC2 · Amazon Q)</b>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/azure.svg" width="18" height="18" alt="Azure icon" align="absmiddle"/> <b>Azure</b>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" alt="Rancher"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-    <img src="https://img.shields.io/badge/HashiCorp-000000?style=flat-square&logo=hashicorp&logoColor=white" alt="HashiCorp"/>
-  </td></tr>
-  <tr><td align="center"><b>Delivery &amp; Operations</b></td><td>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/harness.svg" width="18" height="18" alt="Harness icon" align="absmiddle"/> <b>Harness</b>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/controlm.svg" width="18" height="18" alt="Control-M icon" align="absmiddle"/> <b>Control-M</b>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/venafi.svg" width="18" height="18" alt="Venafi icon" align="absmiddle"/> <b>Venafi</b>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/servicenow.svg" width="18" height="18" alt="ServiceNow icon" align="absmiddle"/> <b>ServiceNow</b>
-  </td></tr>
-  <tr><td align="center"><b>Development Tools</b></td><td>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/sonarqube.svg" width="18" height="18" alt="SonarQube icon" align="absmiddle"/> <b>SonarQube</b>
-    <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Bruno-FF6C37?style=flat-square&logo=bruno&logoColor=white" alt="Bruno"/>
-    <img src="https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
-    <img src="https://img.shields.io/badge/Kong_API_Gateway-003459?style=flat-square&logo=kong&logoColor=white" alt="Kong API Gateway"/>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mirrord.svg" width="18" height="18" alt="mirrord icon" align="absmiddle"/> <b>mirrord</b>
-    <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/devin.svg" width="18" height="18" alt="Devin AI icon" align="absmiddle"/> <b>Devin AI</b>
-  </td></tr>
-  <tr><td align="center"><b>Spoken Languages</b></td><td>Vietnamese (Native) · English (Professional Working)</td></tr>
+  <tr><th colspan="4" align="left">Programming Languages</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openjdk.svg" width="28" height="28" alt=""/><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/typescript.svg" width="28" height="28" alt=""/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/python.svg" width="28" height="28" alt=""/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/nodedotjs.svg" width="28" height="28" alt=""/><br/><sub><b>Node.js</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/html5.svg" width="28" height="28" alt=""/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/css3.svg" width="28" height="28" alt=""/><br/><sub><b>CSS3</b></sub></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+  <tr><th colspan="4" align="left">Frameworks &amp; Messaging</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/springboot.svg" width="28" height="28" alt=""/><br/><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/hibernate.svg" width="28" height="28" alt=""/><br/><sub><b>Hibernate</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/react.svg" width="28" height="28" alt=""/><br/><sub><b>React</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/apachekafka.svg" width="28" height="28" alt=""/><br/><sub><b>Apache Kafka</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/rabbitmq.svg" width="28" height="28" alt=""/><br/><sub><b>RabbitMQ</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/camunda.svg" width="28" height="28" alt=""/><br/><sub><b>Camunda</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/openai.svg" width="28" height="28" alt=""/><br/><sub><b>OpenAI API</b></sub></td>
+    <td width="25%"></td>
+  </tr>
+  <tr><th colspan="4" align="left">Databases</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/postgresql.svg" width="28" height="28" alt=""/><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mysql.svg" width="28" height="28" alt=""/><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mongodb.svg" width="28" height="28" alt=""/><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/redis.svg" width="28" height="28" alt=""/><br/><sub><b>Redis</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mssql.svg" width="28" height="28" alt=""/><br/><sub><b>Microsoft SQL Server</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/oracle.svg" width="28" height="28" alt=""/><br/><sub><b>Oracle</b></sub></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+  <tr><th colspan="4" align="left">Cloud &amp; Infrastructure</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/aws.svg" width="28" height="28" alt=""/><br/><sub><b>AWS</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/azure.svg" width="28" height="28" alt=""/><br/><sub><b>Azure</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/docker.svg" width="28" height="28" alt=""/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/rancher.svg" width="28" height="28" alt=""/><br/><sub><b>Rancher</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/kubernetes.svg" width="28" height="28" alt=""/><br/><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/terraform.svg" width="28" height="28" alt=""/><br/><sub><b>Terraform</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/hashicorp.svg" width="28" height="28" alt=""/><br/><sub><b>HashiCorp</b></sub></td>
+    <td width="25%"></td>
+  </tr>
+  <tr><th colspan="4" align="left">Delivery &amp; Operations</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/jenkins.svg" width="28" height="28" alt=""/><br/><sub><b>Jenkins</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/harness.svg" width="28" height="28" alt=""/><br/><sub><b>Harness</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/controlm.svg" width="28" height="28" alt=""/><br/><sub><b>Control-M</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/venafi.svg" width="28" height="28" alt=""/><br/><sub><b>Venafi</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/servicenow.svg" width="28" height="28" alt=""/><br/><sub><b>ServiceNow</b></sub></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+  <tr><th colspan="4" align="left">Development Tools &amp; Platforms</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/git.svg" width="28" height="28" alt=""/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/github.svg" width="28" height="28" alt=""/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/gitlab.svg" width="28" height="28" alt=""/><br/><sub><b>GitLab</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/sonarqube.svg" width="28" height="28" alt=""/><br/><sub><b>SonarQube</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/snyk.svg" width="28" height="28" alt=""/><br/><sub><b>Snyk</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/postman.svg" width="28" height="28" alt=""/><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/bruno.svg" width="28" height="28" alt=""/><br/><sub><b>Bruno</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/cursor.svg" width="28" height="28" alt=""/><br/><sub><b>Cursor</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/kong.svg" width="28" height="28" alt=""/><br/><sub><b>Kong API Gateway</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/mirrord.svg" width="28" height="28" alt=""/><br/><sub><b>mirrord</b></sub></td>
+    <td align="center" width="25%" valign="middle"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/devin.svg" width="28" height="28" alt=""/><br/><sub><b>Devin AI</b></sub></td>
+    <td width="25%"></td>
+  </tr>
 </table>
+
+<p><small>AWS services: Textract, S3, EC2, Amazon Q.</small></p>
+
+<p><small><b>Spoken languages:</b> Vietnamese (Native) · English (Professional Working)</small></p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="28" /> Work Experience
 

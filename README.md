@@ -109,16 +109,30 @@ Software engineer with nearly **6 years of experience** building and supporting 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> Certifications
 
-| Certification | Issuer | Date |
+<details>
+<summary><b>View all 16 certifications</b></summary>
+<br/>
+
+| Certification | Issuer | Issued |
 |:--|:--|:--:|
+| [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/OCO0WM4RU1M6) | DeepLearning.AI | Oct 2026 |
+| [Data Structures and Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/EMV486U1MB5A) | UC San Diego | Sep 2026 |
+| [Software Testing and Automation Specialization](https://www.coursera.org/account/accomplishments/specialization/JYQRDUYHSZVO) | University of Minnesota | Sep 2026 |
 | [IBM Java Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/B4NL63LVGBI6) | IBM | Sep 2026 |
+| [Applied Cryptography Specialization](https://www.coursera.org/account/accomplishments/specialization/KT13JR9UPAQ8) | University of Colorado Boulder | Sep 2026 |
+| [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/2CZ6WCHHK4FW) | IBM | Sep 2026 |
 | [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ESWVNRK24EPU) | Google | Mar 2026 |
+| [Microsoft SQL Server Specialization](https://www.coursera.org/account/accomplishments/specialization/E0DKA7IBDBP6) | Microsoft | Nov 2025 |
 | Career Qualified in Banking (CQIB) | FINSIA | Sep 2025 |
 | [Generative AI for Software Development Specialization](https://www.coursera.org/account/accomplishments/specialization/K7MF4F1D0W11) | DeepLearning.AI | Jun 2025 |
 | [Scalable Microservices for Developers Specialization](https://www.coursera.org/account/accomplishments/specialization/TQ2RGN61C7PE) | Vanderbilt University | Jun 2025 |
+| [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://www.coursera.org/account/accomplishments/specialization/CC2JWQ5PFLFH) | Rice University | Jan 2025 |
 | [Graph Developer - Professional](https://www.apollographql.com/tutorials/certifications/662e12da-08e0-473b-b566-2b673b8c4419) | Apollo GraphQL | Nov 2024 |
 | [EF SET English Certificate](https://cert.efset.org/uKfMUT) | EF SET | Oct 2024 |
 | [Software Engineer](https://www.hackerrank.com/certificates/dcefaef98243) | HackerRank | May 2024 |
+| [Reinforcement Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/6E9E82LPYW2G) | University of Alberta | Aug 2022 |
+
+</details>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Stats
 

@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+Angular+%7C+TypeScript;Kafka+%7C+RabbitMQ+%7C+Camunda;AWS+%7C+Docker+%7C+Kubernetes;Building+scalable+banking+%26+trading+systems)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/phuongnt-in"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/linkedin.svg" width="18" width="14" height="14" alt="LinkedIn icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn"/></a>
-<a href="https://resume-eight-tawny-41.vercel.app/"><img src="https://img.shields.io/badge/-Resume-764ba2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
-<a href="mailto:phuongnt.work@outlook.com"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/tech/outlook.svg" width="18" width="14" height="14" alt="Outlook icon" align="absmiddle"/> <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge" alt="Email"/></a>
-<a href="https://leetcode.com/u/phuong-leetcode/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=333" alt="LeetCode"/></a>
-<img src="https://komarev.com/ghpvc/?username=phuongnt-git&style=for-the-badge&color=764ba2" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/phuongnt-in"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://resume-eight-tawny-41.vercel.app/"><img src="https://img.shields.io/badge/Resume-764BA2?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"/></a>&nbsp;
+<a href="mailto:phuongnt.work@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://leetcode.com/u/phuong-leetcode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=222" alt="LeetCode"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=phuongnt-git&style=flat-square&color=764ba2&label=views" alt="Profile views"/>
 
 </div>
 

@@ -187,8 +187,6 @@ Software engineer with nearly **6 years of experience** building and supporting 
 
 ---
 
----
-
 <div align="center">
   <i>"Might as well, have the best."</i>
 </div>

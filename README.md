@@ -57,6 +57,22 @@ Software engineer with nearly **6 years of experience** building and supporting 
 
 <p><small><b>Spoken languages:</b> Vietnamese (Native) · English (Professional Working)</small></p>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Briefcase.png" width="28" /> Experience
+
+<details>
+<summary><b>View 5 roles across banking, financial services, and technology</b></summary>
+<br/>
+
+| Role | Organization | Period | Focus |
+|:--|:--|:--:|:--|
+| **DevOps Engineer** | NAB Innovation Centre Vietnam | Jun 2026–Present | Kubernetes delivery, CI/CD, security remediation, and production reliability |
+| **Full Stack Engineer** | NAB Innovation Centre Vietnam | Oct 2024–Jun 2026 | Full-stack banking features, microservices, testing, and production releases |
+| **Full Stack Engineer** | EPAM Systems | May 2023–Sep 2024 | Equities trading applications, Java/Spring Boot, Angular, and production support |
+| **Software Engineer** | Shinhan Bank Vietnam | Mar 2022–Apr 2023 | Banking applications, Java/Spring Boot, API and database performance |
+| **Associate Software Engineer** | Shinhan Bank Vietnam | Dec 2020–Mar 2022 | Internal HR applications with Java/Spring Boot and MySQL |
+
+</details>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" /> Education
 
 <details>

@@ -63,31 +63,48 @@ Software engineer with nearly **6 years of experience** building and supporting 
 <summary><b>5 roles · 2 banking organizations · 1 financial technology company</b></summary>
 <br/>
 
+<blockquote>
+
 ### NAB Innovation Centre Vietnam · Ho Chi Minh City
 
-**DevOps Engineer** · Jun 2026–Present
+**DevOps Engineer** | Jun 2026–Present
 
-Own reliable delivery and operations for banking services: maintain Kubernetes CI/CD pipelines, enable canary releases and fast rollback, remediate security findings, and support production incidents and service-level performance.
+- Maintain Kubernetes-based CI/CD pipelines and enable canary releases with fast rollback.
+- Drive security remediation through vulnerability fixes, certificate renewals, and automated patching.
+- Monitor production services and support on-call, incident response, and service-level performance.
 
-**Full Stack Engineer** · Oct 2024–Jun 2026
+<br/>
 
-Delivered customer and business features across React frontends and Java/Spring Boot services with teams in Vietnam and Australia. Built microservices, clarified requirements with product and design partners, achieved 95% test coverage across key testing stages, and supported production releases.
+**Full Stack Engineer** | Oct 2024–Jun 2026
+
+- Delivered React and Java/Spring Boot features for an Australian bank with teams across Vietnam and Australia.
+- Built and deployed microservices; partnered with product, business, and solution design teams to clarify requirements.
+- Reached **95% test coverage** across acceptance, integration, regression, smoke, system, and performance testing.
+- Supported production releases, mentored new joiners, and led knowledge-sharing on AI-assisted development.
 
 ### EPAM Systems · Ho Chi Minh City
 
-**Full Stack Engineer** · May 2023–Sep 2024
+**Full Stack Engineer** | May 2023–Sep 2024
 
-Built features for a global equities trading platform using Angular and Java/Spring Boot. Improved API responsiveness with multi-threading, developed B2B microservices, and handled third-level production support with DevOps teams.
+- Built features for a global equities trading platform with **Angular** and **Java/Spring Boot**.
+- Improved API responsiveness through multi-threading and developed backend services for B2B integrations.
+- Resolved production issues through third-level support and coordinated fixes with DevOps teams.
 
 ### Shinhan Bank Vietnam · Ho Chi Minh City
 
-**Software Engineer** · Mar 2022–Apr 2023
+**Software Engineer** | Mar 2022–Apr 2023
 
-Developed Java and Spring Boot banking applications and improved service performance through API, query, and database-index optimization.
+- Developed Java and Spring Boot banking applications.
+- Improved API and database performance by optimizing queries and indexes.
 
-**Associate Software Engineer** · Dec 2020–Mar 2022
+<br/>
 
-Built a Java, Spring Boot, and MySQL HR tool for employee leave processes, working with frontend teammates to deliver an easy-to-use interface.
+**Associate Software Engineer** | Dec 2020–Mar 2022
+
+- Built an internal HR leave-management tool with **Java, Spring Boot, and MySQL**.
+- Worked with frontend teammates to deliver a straightforward employee self-service experience.
+
+</blockquote>
 
 </details>
 

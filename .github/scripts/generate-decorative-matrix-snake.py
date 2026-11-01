@@ -51,7 +51,7 @@ def main():
         f"  <!-- Decorative simulation: {simulated_cells} synthetic cells; not GitHub activity. -->\n</svg>",
     )
 
-    output = Path("dist/contribution-matrix-snake.svg")
+    output = Path("assets/contribution-matrix-snake.svg")
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(svg, encoding="utf-8")
     print(f"Rendered decorative simulation: {simulated_cells}/{simulated_cells} cells; snake length {target_length}.")

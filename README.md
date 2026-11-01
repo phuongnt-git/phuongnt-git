@@ -182,7 +182,7 @@ Software engineer with nearly **6 years of experience** building and supporting 
 ## 🐍 Contribution Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/output/contribution-matrix-snake.svg" alt="Decorative Matrix snake animation over 371 simulated cells; not actual GitHub contributions" width="95%"/>
+  <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/develop/assets/contribution-matrix-snake.svg" alt="Decorative Matrix snake animation over 371 simulated cells; not actual GitHub contributions" width="95%"/>
 </div>
 
 ---

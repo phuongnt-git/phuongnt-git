@@ -185,6 +185,10 @@ Software engineer with nearly **6 years of experience** building and supporting 
   <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/develop/assets/contribution-matrix-snake.svg" alt="Decorative Matrix snake animation over 371 simulated cells; not actual GitHub contributions" width="95%"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/develop/assets/systems-in-motion.svg" alt="Animated engineering network: Ideas, Systems, Impact" width="95%"/>
+</div>
+
 ---
 
 <div align="center">

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">Ideas, systems, impact</title>
+  <desc id="desc">A subtle animated network of connected systems, with signals moving between nodes.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#536dfe" stop-opacity=".08"/>
+      <stop offset=".5" stop-color="#8b7bff" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#764ba2" stop-opacity=".12"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop stop-color="#54d6ff"/>
+      <stop offset="1" stop-color="#a58bff"/>
+    </linearGradient>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <path d="M52 58 C190 58 170 28 302 28 S432 86 566 58 S720 30 840 58 S1004 86 1148 48" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <path d="M52 58 C190 58 170 28 302 28 S432 86 566 58 S720 30 840 58 S1004 86 1148 48" fill="none" stroke="url(#signal)" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 18" opacity=".7">
+    <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#10141d" stroke="#756df2" stroke-width="1.5">
+    <circle cx="52" cy="58" r="7"/><circle cx="302" cy="28" r="7"/><circle cx="566" cy="58" r="7"/>
+    <circle cx="840" cy="58" r="7"/><circle cx="1148" cy="48" r="7"/>
+  </g>
+  <g fill="#a99cff" filter="url(#glow)">
+    <circle cx="52" cy="58" r="2.5"/><circle cx="302" cy="28" r="2.5"/><circle cx="566" cy="58" r="2.5"/>
+    <circle cx="840" cy="58" r="2.5"/><circle cx="1148" cy="48" r="2.5"/>
+  </g>
+
+  <circle r="4" fill="#64d9ff" filter="url(#glow)">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M52 58 C190 58 170 28 302 28 S432 86 566 58 S720 30 840 58 S1004 86 1148 48"/>
+  </circle>
+  <circle r="3" fill="#b18cff" filter="url(#glow)">
+    <animateMotion dur="8s" begin="-4s" repeatCount="indefinite" path="M52 58 C190 58 170 28 302 28 S432 86 566 58 S720 30 840 58 S1004 86 1148 48"/>
+  </circle>
+
+  <g fill="#aab2c5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="2">
+    <text x="52" y="94">IDEAS</text><text x="566" y="94" text-anchor="middle">SYSTEMS</text><text x="1148" y="94" text-anchor="end">IMPACT</text>
+  </g>
+</svg>

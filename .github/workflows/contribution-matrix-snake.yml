@@ -1,0 +1,27 @@
+name: Contribution Matrix Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "19 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate decorative Matrix snake from synthetic cells
+        run: python3 .github/scripts/generate-decorative-matrix-snake.py
+
+      - name: Publish animation to output branch
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

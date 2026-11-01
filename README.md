@@ -75,13 +75,16 @@ Software engineer with nearly **6 years of experience** building and supporting 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Awards
 
 <details>
-<summary><b>View 2 awards and distinctions</b></summary>
+<summary><b>View all 5 awards, medals, and distinctions</b></summary>
 <br/>
 
-| Award | Organization | Recognition | Date |
-|:--|:--|:--|:--:|
-| **Odon Vallet Scholarship** | Rencontres du Vietnam | Awarded for outstanding academic achievement | Aug 2023 |
-| **National Mathematics Olympiad** | Ministry of Education &amp; Training | Silver Medal (2016); Bronze Medal (2017) | 2016–2017 |
+| Award | Organization | Date | Certificate |
+|:--|:--|:--:|:--:|
+| **Odon Vallet Scholarship** | Rencontres du Vietnam | Aug 2023 | <a href="https://www.linkedin.com/in/phuongnt-in/overlay/Honor/4991427/treasury/?profileId=ACoAADx-92sB8vBt91_zuCXTYIAwU9dAQ-J7-_g"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/awards/odon-vallet.png" height="72" alt="Odon Vallet Scholarship certificate on LinkedIn"/></a> |
+| **Certificate of Merit — National Mathematics Olympiad** | Ministry of Education and Training | Jul 2017 | <a href="https://www.linkedin.com/in/phuongnt-in/overlay/Honor/1193094573/treasury/?profileId=ACoAADx-92sB8vBt91_zuCXTYIAwU9dAQ-J7-_g"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/awards/math-olympiad-2017-merit.png" height="72" alt="2017 National Mathematics Olympiad certificate of merit on LinkedIn"/></a> |
+| **Bronze Medal — National Mathematics Olympiad** | Ministry of Education &amp; Training | May 2017 | <a href="https://www.linkedin.com/in/phuongnt-in/overlay/Honor/1161376214/treasury/?profileId=ACoAADx-92sB8vBt91_zuCXTYIAwU9dAQ-J7-_g"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/awards/math-olympiad-2017-bronze.png" height="72" alt="2017 National Mathematics Olympiad bronze medal certificate on LinkedIn"/></a> |
+| **Certificate of Merit — National Mathematics Olympiad** | Ministry of Education and Training | Jul 2016 | <a href="https://www.linkedin.com/in/phuongnt-in/overlay/Honor/1193003189/treasury/?profileId=ACoAADx-92sB8vBt91_zuCXTYIAwU9dAQ-J7-_g"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/awards/math-olympiad-2016-merit.png" height="72" alt="2016 National Mathematics Olympiad certificate of merit on LinkedIn"/></a> |
+| **Silver Medal — National Mathematics Olympiad** | Ministry of Education &amp; Training | May 2016 | <a href="https://www.linkedin.com/in/phuongnt-in/overlay/Honor/1157348125/treasury/?profileId=ACoAADx-92sB8vBt91_zuCXTYIAwU9dAQ-J7-_g"><img src="https://raw.githubusercontent.com/phuongnt-git/phuongnt-git/main/assets/awards/math-olympiad-2016-silver.png" height="72" alt="2016 National Mathematics Olympiad silver medal certificate on LinkedIn"/></a> |
 
 </details>
 

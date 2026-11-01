@@ -57,19 +57,37 @@ Software engineer with nearly **6 years of experience** building and supporting 
 
 <p><small><b>Spoken languages:</b> Vietnamese (Native) · English (Professional Working)</small></p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Briefcase.png" width="28" /> Experience
+## 💼 Experience
 
 <details>
-<summary><b>View 5 roles across banking, financial services, and technology</b></summary>
+<summary><b>5 roles · 2 banking organizations · 1 financial technology company</b></summary>
 <br/>
 
-| Role | Organization | Period | Focus |
-|:--|:--|:--:|:--|
-| **DevOps Engineer** | NAB Innovation Centre Vietnam | Jun 2026–Present | Kubernetes delivery, CI/CD, security remediation, and production reliability |
-| **Full Stack Engineer** | NAB Innovation Centre Vietnam | Oct 2024–Jun 2026 | Full-stack banking features, microservices, testing, and production releases |
-| **Full Stack Engineer** | EPAM Systems | May 2023–Sep 2024 | Equities trading applications, Java/Spring Boot, Angular, and production support |
-| **Software Engineer** | Shinhan Bank Vietnam | Mar 2022–Apr 2023 | Banking applications, Java/Spring Boot, API and database performance |
-| **Associate Software Engineer** | Shinhan Bank Vietnam | Dec 2020–Mar 2022 | Internal HR applications with Java/Spring Boot and MySQL |
+### NAB Innovation Centre Vietnam · Ho Chi Minh City
+
+**DevOps Engineer** · Jun 2026–Present
+
+Own reliable delivery and operations for banking services: maintain Kubernetes CI/CD pipelines, enable canary releases and fast rollback, remediate security findings, and support production incidents and service-level performance.
+
+**Full Stack Engineer** · Oct 2024–Jun 2026
+
+Delivered customer and business features across React frontends and Java/Spring Boot services with teams in Vietnam and Australia. Built microservices, clarified requirements with product and design partners, achieved 95% test coverage across key testing stages, and supported production releases.
+
+### EPAM Systems · Ho Chi Minh City
+
+**Full Stack Engineer** · May 2023–Sep 2024
+
+Built features for a global equities trading platform using Angular and Java/Spring Boot. Improved API responsiveness with multi-threading, developed B2B microservices, and handled third-level production support with DevOps teams.
+
+### Shinhan Bank Vietnam · Ho Chi Minh City
+
+**Software Engineer** · Mar 2022–Apr 2023
+
+Developed Java and Spring Boot banking applications and improved service performance through API, query, and database-index optimization.
+
+**Associate Software Engineer** · Dec 2020–Mar 2022
+
+Built a Java, Spring Boot, and MySQL HR tool for employee leave processes, working with frontend teammates to deliver an easy-to-use interface.
 
 </details>
 
